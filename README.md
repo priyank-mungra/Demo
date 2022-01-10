@@ -1,4 +1,4 @@
 # Demo
 update from priyank
-added feature-1
+added Feature-1
 added feature-2
